@@ -1,0 +1,19 @@
+{
+  "name": "node-service-systemd",
+  "version": "0.0.1",
+  "description": "Soon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/natancabral/node-service-systemd.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/natancabral/node-service-systemd/issues"
+  },
+  "homepage": "https://github.com/natancabral/node-service-systemd#readme"
+}
